@@ -1,5 +1,4 @@
 
-# Project Title
 WanderEthio
 
 
