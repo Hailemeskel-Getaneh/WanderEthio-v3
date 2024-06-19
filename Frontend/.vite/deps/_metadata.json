@@ -1,0 +1,82 @@
+{
+  "hash": "1072c15a",
+  "configHash": "d3aed7a6",
+  "lockfileHash": "e3b0c442",
+  "browserHash": "c4f3c557",
+  "optimized": {
+    "@fortawesome/free-solid-svg-icons": {
+      "src": "../../Frontend/node_modules/@fortawesome/free-solid-svg-icons/index.mjs",
+      "file": "@fortawesome_free-solid-svg-icons.js",
+      "fileHash": "b8fd9445",
+      "needsInterop": false
+    },
+    "@fortawesome/react-fontawesome": {
+      "src": "../../Frontend/node_modules/@fortawesome/react-fontawesome/index.es.js",
+      "file": "@fortawesome_react-fontawesome.js",
+      "fileHash": "5b429212",
+      "needsInterop": false
+    },
+    "@stripe/stripe-js": {
+      "src": "../../Frontend/node_modules/@stripe/stripe-js/lib/index.mjs",
+      "file": "@stripe_stripe-js.js",
+      "fileHash": "0f5d86f0",
+      "needsInterop": false
+    },
+    "axios": {
+      "src": "../../Frontend/node_modules/axios/index.js",
+      "file": "axios.js",
+      "fileHash": "c719f712",
+      "needsInterop": false
+    },
+    "prop-types": {
+      "src": "../../Frontend/node_modules/prop-types/index.js",
+      "file": "prop-types.js",
+      "fileHash": "b8aff2ea",
+      "needsInterop": true
+    },
+    "react": {
+      "src": "../../Frontend/node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "d721d4e5",
+      "needsInterop": true
+    },
+    "react-dom": {
+      "src": "../../Frontend/node_modules/react-dom/index.js",
+      "file": "react-dom.js",
+      "fileHash": "1eb9fc67",
+      "needsInterop": true
+    },
+    "react-router-dom": {
+      "src": "../../Frontend/node_modules/react-router-dom/dist/index.js",
+      "file": "react-router-dom.js",
+      "fileHash": "7a2dc40a",
+      "needsInterop": false
+    },
+    "react-slick": {
+      "src": "../../Frontend/node_modules/react-slick/lib/index.js",
+      "file": "react-slick.js",
+      "fileHash": "9db7922d",
+      "needsInterop": true
+    },
+    "styled-components": {
+      "src": "../../Frontend/node_modules/styled-components/dist/styled-components.browser.esm.js",
+      "file": "styled-components.js",
+      "fileHash": "7a24b999",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-LXT44TQ6": {
+      "file": "chunk-LXT44TQ6.js"
+    },
+    "chunk-7LRRAMG6": {
+      "file": "chunk-7LRRAMG6.js"
+    },
+    "chunk-WWXYJ7NH": {
+      "file": "chunk-WWXYJ7NH.js"
+    },
+    "chunk-CEQRFMJQ": {
+      "file": "chunk-CEQRFMJQ.js"
+    }
+  }
+}
