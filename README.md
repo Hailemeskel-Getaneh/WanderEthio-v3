@@ -90,7 +90,7 @@ WanderEthio is a MERN stack application built using Vite for the frontend and No
    - Start the backend server:
      ```bash
      cd backend
-     npm run dev
+     npm run start
      ```
    - Start the frontend development server:
      ```bash
